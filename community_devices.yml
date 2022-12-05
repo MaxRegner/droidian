@@ -23,4 +23,4 @@ miatoll:
   variant: phone
   apilevel: 29
 
-  packages: *kenzo_packages
+  packages: *miatoll_packages
