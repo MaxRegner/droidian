@@ -1,5 +1,5 @@
 .kenzo_packages:
-  packages: &kenzo_packages
+  packages: &miatoll
     - adaptation-kenzo
     - adaptation-kenzo-configs
 
