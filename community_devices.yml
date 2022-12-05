@@ -14,7 +14,7 @@
 #     - name: droidian-adaptation-miatoll-legacy
 #       arch: arm64
 #       apilevel: 29
-#       packages: *kenzo_packages
+#       packages: *miatoll_packages
 
 miatoll:
   type: image
