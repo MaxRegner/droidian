@@ -1,7 +1,7 @@
-.miatoll_packages:
-  packages: &miatoll_packages
-    - adaptation-miatoll
-    - adaptation-miatoll-configs
+.kenzo_packages:
+  packages: &kenzo_packages
+    - adaptation-kenzo
+    - adaptation-kenzo-configs
 
 # rootfs_legacy:
 #   type: rootfs
@@ -14,7 +14,7 @@
 #     - name: droidian-adaptation-miatoll-legacy
 #       arch: arm64
 #       apilevel: 29
-#       packages: *miatoll_packages
+#       packages: *kenzo_packages
 
 miatoll:
   type: image
@@ -23,4 +23,4 @@ miatoll:
   variant: phone
   apilevel: 29
 
-  packages: *miatoll_packages
+  packages: *kenzo_packages
