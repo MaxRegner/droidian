@@ -1,6 +1,6 @@
 .miatoll_packages:
   packages: &miatoll_packages
-    - adaptation-kenzo
+    - adaptation-miatoll
     - adaptation-miatoll-configs
 
 # rootfs_legacy:
